@@ -2,7 +2,7 @@
 
 *Nota: Como o desafio foi apenas a implementação de uma função, para facilitar o acesso e a testagem criei um site/projeto básico em html, css e js para acompanhar.*
 
-O projeto pode ser acessado por esse [link](https://amdiaspb.github.io/escribo-1), ou baixado e executado em um navegador pelo arquivo `index.html` na pasta `src` do projeto.
+O projeto pode ser acessado por esse [link](https://amdiaspb.github.io/escribo-1), ou baixado e executado em um navegador pelo arquivo `index.html` na pasta `docs` do projeto.
 
 Para testar, basta digitar um número no primeiro campo do site e apertar enter com ele selecionado, com isso, o resultado aparecerá no campo abaixo.
 
